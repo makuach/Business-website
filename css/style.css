@@ -61,6 +61,10 @@ h6{
 	-webkit-transition: 0.5s ease-in;
 	-moz-transition: 0.5s ease-in;
 }
+#bol{
+    height: 350px;
+    width: 450px;
+}
 
 .top-nav.light-header li a.nav-link:hover, .top-nav.light-header .nav-item.active a.nav-link{
 	border-bottom: 3px solid #35cbdf;
